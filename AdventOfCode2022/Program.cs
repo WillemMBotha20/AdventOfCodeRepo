@@ -1,4 +1,4 @@
 ﻿using AdventOfCode2022.Projects;
 
-five main = new five();
+six main = new six();
 Console.WriteLine($"Puzzle {main.GetType().Name} answer: {main.GetAnswer()}");
